@@ -1,3 +1,6 @@
+### Disclaimer: This repo is an unmaintained fork of [kasuboski/nixos-lima](https://github.com/kasuboski/nixos-lima). Do not rely on for updates or bug fixes.
+
+
 # Run NixOS on a Lima VM
 Heavily inspired from [patryk4815/ctftools](https://github.com/patryk4815/ctftools/tree/master/lima-vm)
 
